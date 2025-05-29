@@ -1,6 +1,7 @@
 #include <iostream>
 #include <vector>
 
+// Tarea Problema 1 Cambio de moneda alternativo
 // Realizado por Alan Alvarez Puma y Jose Zegarra Castillo
 
 
