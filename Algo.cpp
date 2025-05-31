@@ -1,5 +1,7 @@
 #include <iostream>
 
+// Realizado por Alan Patrizio Alvarez Puma
+
 int Menor(int* pesos,int size,float* resul) {
     int index = -1;
     int peso_menor = INT_MAX;
